@@ -5,7 +5,6 @@ Ce dépôt contient le code source et les résultats associés au premier travai
 ### Structure du dépôt
 
 - **`tp1.ipynb`**: Notebook Jupyter contenant tout le code et les analyses pour ce TP. Ce fichier doit être complété et commenté en fonction des questions posées dans l'énoncé.
-- **`groupe.txt`**: Fichier texte contenant les informations des membres du groupe (Noms, Prénoms, Emails, Numéros d'étudiant) conformément au format demandé.
 - **`export/`**: Ce répertoire contient les différentes versions exportées du notebook :
   - `tp1.pdf`: Version PDF du notebook.
   - `tp1.html`: Version HTML du notebook.
