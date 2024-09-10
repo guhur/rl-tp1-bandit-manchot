@@ -51,14 +51,6 @@ Chaque question dans le notebook est suivie d'une cellule de code pour l'implém
 
 La dernière section du notebook vous demande de comparer les performances des différents algorithmes (glouton, UCB, Thompson) dans un scénario où un grand nombre de vaccins est disponible, et de faire le lien avec la "malédiction de la dimension".
 
-### Auteurs
-
-Chaque membre du groupe doit être listé dans le fichier `groupe.txt` avec les informations suivantes :
-- Nom
-- Prénom
-- Email
-- Numéro d'étudiant
-
 ### Remarques finales
 
 Assurez-vous que toutes les cellules du notebook ont bien été exécutées avant de soumettre le TP. Les résultats et les graphiques doivent être clairement présentés, et les commentaires doivent refléter une compréhension des concepts théoriques.
